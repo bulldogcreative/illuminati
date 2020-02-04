@@ -1,0 +1,10 @@
+<?php
+
+namespace DummyNamespace;
+
+use DummyRootNamespaceContracts\Repositories\DummyRepoInterface;
+
+class DummyClass implements DummyRepoInterface
+{
+    //
+}
